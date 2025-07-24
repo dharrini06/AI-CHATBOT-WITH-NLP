@@ -18,3 +18,4 @@ The Book Recommendation Chatbot developed in this task is a lightweight, interac
 
 OUTPUT:
 
+<img width="1365" height="699" alt="Image" src="https://github.com/user-attachments/assets/f107bb44-4088-4290-a2d9-2665b4a21612" />
